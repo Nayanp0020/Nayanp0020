@@ -26,11 +26,11 @@
 🔹 Laptop Price Predictor   
 
 
-## 📊 GitHub Stats
+## 📚 Currently Learning
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nayanp0020&show_icons=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayanp0020&layout=compact)
+🔹 Deep Learning  
+🔹 Natural Language Processing  
+🔹 Advanced Machine Learning
 
 
 ## 🌐 Connect With Me
