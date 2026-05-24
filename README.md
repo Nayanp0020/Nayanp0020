@@ -22,12 +22,9 @@
 
 ## 🚀 Projects
 
-🔹 Sentiment Analysis Using Chrome Extension (ML , DL & NLP)
-
+🔹 Sentiment Analysis With Chrome Extension (ML , DL & NLP)
 🔹 Medicine Availability Finder (Python & Django) 
-
 🔹 AI Chatbot (React) 
-
 🔹 Laptop Price Predictor  (ML Algorithm ) 
 
 
