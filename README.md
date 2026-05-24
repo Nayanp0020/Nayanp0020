@@ -23,8 +23,11 @@
 ## 🚀 Projects
 
 🔹 Sentiment Analysis Using Chrome Extension
+
 🔹 Medicine Availability Finder (Python & Django) 
+
 🔹 AI Chatbot (React) 
+
 🔹 Laptop Price Predictor  (ML Algorithm ) 
 
 
