@@ -22,7 +22,7 @@
 
 ## 🚀 Projects
 
-🔹 Sentiment Analysis Using Chrome Extension
+🔹 Sentiment Analysis Using Chrome Extension (ML , DL & NLP)
 
 🔹 Medicine Availability Finder (Python & Django) 
 
