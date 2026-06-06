@@ -22,6 +22,8 @@
 
 ## 🚀 Projects
 
+🔹 Multimodal Transformer: Intelligent Emotion Recognition System (ML , DL , NLP and Transformers)
+
 🔹 Sentiment Analysis With Chrome Extension (ML , DL & NLP)
 
 🔹 Medicine Availability Finder (Python & Django) 
