@@ -41,7 +41,7 @@
 
 ## 🌐 Connect With Me
 
-📧 Email: nayanpawar.ai@outlook.com  
+📧 Email: nayanpawar0020@gmail.com & nayanpawar.ai@outlook.com  
 💼 LinkedIn: https://linkedin.com/in/nayan-pawar-2074552aa
 
 
