@@ -35,9 +35,8 @@
 
 ## 📚 Currently Learning
 
-🔹 Deep Learning  
-🔹 Natural Language Processing  
-🔹 Advanced Machine Learning
+🔹 Generative AI
+🔹 Agentic AI
 
 
 ## 🌐 Connect With Me
