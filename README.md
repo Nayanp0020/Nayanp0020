@@ -1,143 +1,106 @@
-<!-- ======================= AI Banner ======================= -->
-
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Nayan%20Pawar&fontSize=50&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descAlignY=58"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Nayan%20Pawar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descAlignY=55"/>
 </p>
 
-<!-- =================== Typing Animation ==================== -->
-
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Nayan+Pawar;Final-Year+AIML+Student;Machine+Learning+Developer;Deep+Learning+%26+NLP+Enthusiast;Generative+AI+Learner;Future+AI+Engineer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Final+Year+AIML+Student;Machine+Learning+Developer;Deep+Learning+Enthusiast;NLP+Explorer;Generative+AI+Learner;Future+AI+Engineer"/>
 </p>
 
 <h3 align="center">
-Building Intelligent Systems with AI 🚀
+Building AI solutions that solve real-world problems 🚀
 </h3>
 
 ---
 
-# 👨‍💻 About Me
+## 🚀 About Me
 
-- 🎓 Final-Year B.Tech Student in Artificial Intelligence & Machine Learning
-- 🤖 Passionate about Artificial Intelligence, Machine Learning & Data Science
-- 🧠 Interested in Deep Learning, NLP & Computer Vision
-- 💡 Currently exploring Generative AI & Agentic AI
-- 🚀 Open to AI/ML, Generative AI & Data Science Internship Opportunities
+- 🎓 Final-Year B.Tech in Artificial Intelligence & Machine Learning
+- 🤖 Passionate about AI, ML, Deep Learning & NLP
+- 💡 Exploring Generative AI & Agentic AI
+- 📊 Interested in Data Science & Predictive Analytics
+- 🚀 Open to AI/ML & Data Science Internship Opportunities
 
 ---
 
-<!-- ================= Coding GIF ================= -->
+## 🛠 Tech Stack
 
 <p align="center">
-  <img width="420" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF"/>
+
+<img src="https://skillicons.dev/icons?i=python,django,react,git,github,vscode"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transformers-yellow?style=for-the-badge"/>
+
 </p>
 
 ---
 
-# 🛠 Tech Stack
+## 🚀 Featured Projects
 
-### 💻 Languages
+🧠 **Multimodal Emotion Recognition System**
+> Emotion detection using Text, Face & Voice with ML, DL, NLP & Transformers.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python"/>
-</p>
+💻 **Laptop Price Predictor**
+> Machine Learning model for laptop price prediction.
 
-### 🤖 AI & Machine Learning
+😊 **Sentiment Analysis Chrome Extension**
+> Browser extension using NLP for sentiment prediction.
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep Learning-FF6F00?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-6A1B9A?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge)
+💊 **Medicine Availability Finder**
+> Django-based medicine search application.
 
-### ⚙️ Frameworks
-
-<p>
-  <img src="https://skillicons.dev/icons?i=django,flask,react"/>
-</p>
-
-### 📊 Data & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-FFB13B?style=for-the-badge)
+🤖 **AI Chatbot**
+> Conversational chatbot built using React.
 
 ---
 
-# 🚀 Featured Projects
+## 📚 Currently Learning
 
-## 🧠 Multimodal Emotion Recognition System
-Emotion recognition using **Text, Face & Voice** with **Machine Learning, Deep Learning, NLP & Transformers**.
+✨ Generative AI
 
-**Tech:** Python • Transformers • Deep Learning • NLP • Computer Vision
+✨ Agentic AI
 
----
+✨ Large Language Models (LLMs)
 
-## 😊 Sentiment Analysis Chrome Extension
-Real-time sentiment analysis of selected text using NLP and Machine Learning.
+✨ Retrieval-Augmented Generation (RAG)
 
-**Tech:** Python • NLP • Machine Learning
+✨ MLOps
 
 ---
 
-## 💊 Medicine Availability Finder
-Django-based web application to search medicine availability.
-
-**Tech:** Python • Django
-
----
-
-## 🤖 AI Chatbot
-Interactive chatbot built using React.
-
-**Tech:** React • JavaScript
-
----
-
-## 💻 Laptop Price Predictor
-Machine Learning model that predicts laptop prices based on specifications.
-
-**Tech:** Python • Scikit-learn
-
----
-
-# 📚 Currently Learning
-
-- 🤖 Generative AI
-- 🧠 Agentic AI
-- 📖 Large Language Models (LLMs)
-- 🔍 Retrieval-Augmented Generation (RAG)
-- ⚙️ MLOps
-
----
-
-# 📈 GitHub Statistics
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect with Me
 
 <p align="center">
 
 <a href="https://linkedin.com/in/nayan-pawar-2074552aa">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:nayanpawar0020@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="mailto:nayanpawar.ai@outlook.com">
-  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook"/>
 </a>
 
 </p>
@@ -145,11 +108,13 @@ Machine Learning model that predicts laptop prices based on specifications.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00F5FF&style=for-the-badge"/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+
 </p>
 
----
+<p align="center">
 
-<h3 align="center">
-⭐ Always Learning • Building • Innovating with AI 🚀
-</h3>
+### ⭐ Always learning, experimenting, and building AI-powered solutions.
+
+</p>
