@@ -1,111 +1,150 @@
-# 👋 Hi, I'm Nayan Pawar
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Nayan%20Pawar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descAlignY=55"/>
+</p>
 
-### 🎓 Final-Year B.Tech Student in Artificial Intelligence & Machine Learning
+<!-- Typing Animation -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Final+Year+AIML+Student;Machine+Learning+Developer;Deep+Learning+Enthusiast;NLP+Explorer;Generative+AI+Learner;Future+AI+Engineer"/>
+</p>
 
-I'm passionate about building AI-powered applications that solve real-world problems using **Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI**.
-
-I enjoy transforming ideas into intelligent systems, continuously learning new AI technologies, and contributing to impactful projects.
+<h3 align="center">
+Building AI solutions that solve real-world problems 🚀
+</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Final-Year B.Tech (Artificial Intelligence & Machine Learning)
-- 🤖 Passionate about AI, Machine Learning & Data Science
-- 🧠 Exploring Generative AI & Agentic AI
-- 💻 Building end-to-end AI applications with Python
-- 📊 Interested in Data Analysis & Predictive Modeling
-- 🌱 Currently learning LLMs, AI Agents, RAG & MLOps
-- 🚀 Open to AI/ML, Generative AI and Data Science Internship Opportunities
+- 🎓 Final-Year B.Tech in Artificial Intelligence & Machine Learning
+- 🤖 Passionate about AI, ML, Deep Learning & NLP
+- 💡 Exploring Generative AI & Agentic AI
+- 📊 Interested in Data Science & Predictive Analytics
+- 🚀 Open to AI/ML & Data Science Internship Opportunities
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
 
-### AI / Machine Learning
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C2D91?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=python,django,react,git,github,vscode"/>
 
-### Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+<br><br>
 
-### Data
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-FFB13B?style=for-the-badge)
+<img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transformers-yellow?style=for-the-badge"/>
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+</p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-### 🧠 Multimodal Emotion Recognition System
-> AI system that predicts human emotions from **Text, Face and Voice** using Machine Learning, Deep Learning, NLP and Transformer models.
+🧠 **Multimodal Emotion Recognition System**
+> Emotion detection using Text, Face & Voice with ML, DL, NLP & Transformers.
 
-**Tech:** Python • Transformers • Deep Learning • NLP • Computer Vision
+💻 **Laptop Price Predictor**
+> Machine Learning model for laptop price prediction.
 
----
+😊 **Sentiment Analysis Chrome Extension**
+> Browser extension using NLP for sentiment prediction.
 
-### 😊 Sentiment Analysis Chrome Extension
-Chrome extension that performs real-time sentiment analysis on selected text using NLP and Machine Learning.
+💊 **Medicine Availability Finder**
+> Django-based medicine search application.
 
-**Tech:** Python • NLP • Machine Learning • Chrome Extension
-
----
-
-### 💊 Medicine Availability Finder
-Web application to search nearby medicine availability with a Django backend.
-
-**Tech:** Python • Django
+🤖 **AI Chatbot**
+> Conversational chatbot built using React.
 
 ---
 
-### 🤖 AI Chatbot
-Interactive chatbot built with React for conversational AI applications.
+## 📚 Currently Learning
 
-**Tech:** React • JavaScript
+✨ Generative AI
 
----
+✨ Agentic AI
 
-### 💻 Laptop Price Predictor
-Machine Learning model that predicts laptop prices based on specifications.
+✨ Large Language Models (LLMs)
 
-**Tech:** Python • Scikit-learn • Machine Learning
+✨ Retrieval-Augmented Generation (RAG)
 
----
-
-# 📖 Currently Learning
-
-- 🤖 Generative AI
-- 🧠 Agentic AI
-- 📚 Large Language Models (LLMs)
-- 🔍 Retrieval-Augmented Generation (RAG)
-- ⚙️ MLOps
+✨ MLOps
 
 ---
 
-# 📫 Connect With Me
+## 📈 GitHub Statistics
 
-📧 **Email**
-- nayanpawar0020@gmail.com
-- nayanpawar.ai@outlook.com
+<p align="center">
 
-💼 **LinkedIn**
-- https://linkedin.com/in/nayan-pawar-2074552aa
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## 💡 Quote
+## 🔥 GitHub Streak
 
-> *"Always learning, building, and exploring the future of Artificial Intelligence."* 🚀
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/nayan-pawar-2074552aa">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:nayanpawar0020@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="mailto:nayanpawar.ai@outlook.com">
+<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+<p align="center">
+
+### ⭐ Always learning, experimenting, and building AI-powered solutions.
+
+</p>
